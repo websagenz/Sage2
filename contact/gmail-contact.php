@@ -72,8 +72,8 @@ $mail->IsSMTP();
                 $mail->Host = 'smtp.gmail.com';
                 $mail->Port = "465"; // 8025, 587 and 25 can also be used. Use Port 465 for SSL.
                 
-                $mail->Username = "email@gmail.com";
-                $mail->Password = "password";
+                $mail->Username = "william9rs@gmail.com";
+                $mail->Password = "TaxiCK996633";
 
                 $mail->From = $fromEmail;
                 $mail->FromName = $fromName;
